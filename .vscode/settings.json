@@ -1,6 +1,0 @@
-{
-    "editor.formatOnSave": true,
-    "C_Cpp.formatting": "clangFormat",
-    "C_Cpp.clang_format_sortIncludes": true,
-    "C_Cpp.default.cppStandard": "c++17"
-}
